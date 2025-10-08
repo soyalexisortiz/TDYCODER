@@ -30,7 +30,7 @@ A professional code editor with integrated AI assistant powered by local LLM mod
 - **Export Projects** - Open generated projects directly in Windows Explorer
 - **Modern UI** - Clean, professional interface with dark theme
 
-![TDYCODER Banner](assets/Picture1.png)
+![Picture1 of TDYCODER](assets/Picture1.png)
 
 ## 📦 Installation
 
