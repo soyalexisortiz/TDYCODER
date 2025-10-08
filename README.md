@@ -96,8 +96,8 @@ Just describe what you want, and the AI builds it for you!
 
 **Files not saving?**
 - Check write permissions in your project folder
-- Try the "Test File Creation" button
 - Use "Choose Project Folder" to select a different location
+- Restart the application as administrator if needed
 
 **Need help or want to give feedback?**
 - Join our Discord community (see Community & Support section below)
