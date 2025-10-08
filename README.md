@@ -97,6 +97,11 @@ Just describe what you want, and the AI builds it for you!
 - Try the "Test File Creation" button
 - Use "Choose Project Folder" to select a different location
 
+**Need help or want to give feedback?**
+- Join our Discord community (see Community & Support section below)
+- Check our troubleshooting guide above
+- Try the quick fixes mentioned for common issues
+
 ## 📄 License
 
 See [LICENSE](LICENSE) file for details.
@@ -112,6 +117,17 @@ See [LICENSE](LICENSE) file for details.
 If you find TDYCODER useful, consider supporting future development:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Development-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/tdysky)
+
+### 💬 Community & Support
+
+Join our Discord community for help, feedback, and discussions:
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RTax3aBMUs)
+
+- 🐛 **Report bugs** and get help
+- 💡 **Suggest features** and improvements  
+- 🤝 **Connect** with other TDYCODER users
+- 📢 **Get updates** on new releases
 
 ---
 
