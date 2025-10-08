@@ -36,7 +36,7 @@ A professional code editor with integrated AI assistant powered by local LLM mod
 
 ### Download & Run
 
-1. **Download** the latest `TDYCODER-Setup.exe` from [Releases](/releases)
+1. **Download** the latest `TDYCODER-Setup.exe` from [Releases](../../releases)
 2. **Run** the installer and follow the setup wizard
 3. **Launch** TDYCODER from your desktop or start menu
 
