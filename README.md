@@ -107,6 +107,12 @@ See [LICENSE](LICENSE) file for details.
 
 © 2025 TDYSKY. All rights reserved.
 
+### ☕ Support the Development
+
+If you find TDYCODER useful, consider supporting future development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Development-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/tdysky)
+
 ---
 
 *Experience the future of coding with AI-powered assistance. Download TDYCODER today!*
