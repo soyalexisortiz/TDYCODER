@@ -4,7 +4,7 @@
 
 A professional code editor with integrated AI assistant powered by local LLM models. Experience the power of AI-assisted coding with complete privacy and offline capabilities.
 
-![TDYCODER Banner](assets/Agency3.png)
+![TDYCODER Banner](assets/AgencyGold.png)
 
 ## ✨ Features
 
