@@ -75,10 +75,6 @@ Just describe what you want, and the AI builds it for you!
 - **Storage:** 500MB for application
 - **Optional:** Ollama for AI features (additional 2-8GB for models)
 
-## 🎨 Screenshots
-
-*Professional interface with AI chat on the right, file explorer on the left, and Monaco Editor in the center.*
-
 ## 🆕 What's New in 2025
 
 - Complete UI overhaul with modern design
